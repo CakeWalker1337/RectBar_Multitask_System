@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="RectBar_Multitask_System.EditHallWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Width="522"
+	Height="211"
+	Title="Редактировать зал">
+	<Grid>
+		<StackPanel
+			Orientation="Vertical"
+			Width="460"
+			Height="142"
+			Grid.Column="0"
+			Grid.Row="0"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Center"
+			Margin="0,0,0,0">
+			<StackPanel
+				x:Name="choicePanel"
+				Visibility="Hidden"
+				Margin="0,15,0,0"
+				HorizontalAlignment="Center"
+				Orientation="Horizontal">
+				<Label
+					Content="Выберите зал " />
+				<ComboBox
+					Height="26"
+					Width="200"
+					x:Name="nameComboBox"
+					SelectionChanged="nameComboBox_SelectionChanged" />
+			</StackPanel>
+			<StackPanel
+				Margin="0,15,0,0"
+				HorizontalAlignment="Center"
+				Orientation="Horizontal">
+				<Label
+					Content="Название " />
+				<TextBox
+					Height="26"
+					Width="200"
+					x:Name="nameBox"></TextBox>
+			</StackPanel>
+			<StackPanel
+				HorizontalAlignment="Center"
+				Orientation="Horizontal"
+				Margin="0,30,0,0">
+				<Button
+					Width="120"
+					Height="30"
+					Content="Сохранить"
+					x:Name="saveButton"
+					Click="saveButton_Click" />
+				<Button
+					Width="120"
+					Height="30"
+					Content="Удалить"
+					Margin="30,0,0,0"
+					x:Name="deleteButton"
+					IsEnabled="False"
+					Click="deleteButton_Click" />
+				<Button
+					Width="120"
+					Height="30"
+					Content="Закрыть"
+					Margin="30,0,0,0"
+					x:Name="exitButton"
+					Click="exitButton_Click" />
+			</StackPanel>
+		</StackPanel>
+	</Grid>
+</Window>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="RectBar_Multitask_System.SearchResultWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Результаты поиска"
+	Width="650"
+	Height="397">
+	<Grid>
+		<StackPanel
+			Orientation="Vertical">
+			<Label
+				Content="Поиск дал больше одного результата: "
+				Margin="40,10,0,0" />
+			<DataGrid
+				Width="555"
+				Height="256"
+				Grid.Column="0"
+				Grid.Row="0"
+				IsReadOnly="True"
+				HorizontalAlignment="Center"
+				VerticalAlignment="Top"
+				x:Name="resultGrid"
+				MouseDoubleClick="resultGrid_DoubleClick"
+				Margin="0,10,0,0">
+				<DataGrid.Columns>
+					<DataGridTextColumn
+						Header="ID"
+						Binding ="{Binding Path = P1}"
+						Width="60" />
+					<DataGridTextColumn
+						Header="Имя"
+						Binding ="{Binding Path = P2}"
+						Width="260" />
+					<DataGridTextColumn
+						Header="Возраст"
+						Binding ="{Binding Path = P3}"
+						Width="100" />
+					<DataGridTextColumn
+						Header="Статус"
+						Binding ="{Binding Path = P4}"
+						Width="100" />
+				</DataGrid.Columns>
+			</DataGrid>
+			<StackPanel
+				Orientation="Horizontal"
+				HorizontalAlignment="Center"
+				Margin="0,15,0,0">
+				<Button
+					Width="120"
+					Height="30"
+					Content="Принять"
+					x:Name="acceptButton"
+					Click="acceptButton_Click" />
+				<Button
+					Width="120"
+					Height="30"
+					Content="Отмена"
+					Margin="50,0,0,0"
+					x:Name="cancelButton"
+					Click="cancelButton_Click" />
+			</StackPanel>
+		</StackPanel>
+	</Grid>
+</Window>

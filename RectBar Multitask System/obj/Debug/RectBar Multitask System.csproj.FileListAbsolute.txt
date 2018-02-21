@@ -1,0 +1,28 @@
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\bin\Debug\RectBar Multitask System.exe.config
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\bin\Debug\RectBar Multitask System.exe
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\bin\Debug\RectBar Multitask System.pdb
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\RectBar Multitask System.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\ConfirmWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditHallWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditScheduleRowWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditScheduleWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditSmallWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\LogWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\SearchResultWindow.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\Window1.baml
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\ConfirmWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditHallWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditScheduleRowWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditScheduleWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditSmallWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\EditWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\LogWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\SearchResultWindow.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\Window1.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\App.g.cs
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\RectBar Multitask System_MarkupCompile.cache
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\RectBar Multitask System.g.resources
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\RectBar Multitask System.exe
+C:\Users\Maxim\Documents\SharpDevelop projects\RectBar Multitask System\RectBar Multitask System\obj\Debug\RectBar Multitask System.pdb
